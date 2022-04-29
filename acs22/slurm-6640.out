@@ -1,0 +1,16 @@
+Run=./tema2_neopt: N=400: Time=1.166016
+Run=./tema2_neopt: N=800: Time=10.323567
+Run=./tema2_neopt: N=1200: Time=33.004677
+Run=./tema2_neopt: N=700: Time=6.183896
+Run=./tema2_neopt: N=1100: Time=23.941183
+Run=./tema2_opt_m: N=400: Time=0.352298
+Run=./tema2_opt_m: N=800: Time=2.809805
+Run=./tema2_opt_m: N=1200: Time=9.981242
+Run=./tema2_opt_m: N=700: Time=4.119430
+Run=./tema2_opt_m: N=1100: Time=14.127757
+<<< Bonus=0p >>>
+Run=./tema2_blas: N=400: Time=0.037886
+Run=./tema2_blas: N=800: Time=0.278067
+Run=./tema2_blas: N=1200: Time=0.913803
+Run=./tema2_blas: N=700: Time=0.190566
+Run=./tema2_blas: N=1100: Time=0.714633
