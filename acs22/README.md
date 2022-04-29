@@ -94,7 +94,9 @@ metodelor acestei biblioteci.
 
 ## Comparatia la nivel grafic
 Graficul care indica evolutia celor 3 variante este urmatorul:
+
 ![Grafic cu timpii de executie](Comparatie_performante.png)
+
 Se poate observa ca metoda folosirii bibliotecii **blas** este de departe cea
 mai eficienta, functia de crestere a timpului raportat la N fiind una liniara
 cu o panta foarte mica, comparativ ce celelalte 2 implementari ce par a avea o
